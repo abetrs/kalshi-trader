@@ -1,10 +1,10 @@
-# Kalshi Marxist Trading Bot
+# Kalshi Trading Bot
 
-A sophisticated trading bot that leverages Marxist historical materialism and dialectical analysis to trade event contracts on Kalshi. This project combines advanced natural language processing, quantitative trading strategies, and Marxist economic theory to make informed trading decisions.
+A sophisticated trading bot that leverages historical analysis and advanced data processing to trade event contracts on Kalshi. This project combines natural language processing, quantitative trading strategies, and comprehensive market analysis to make informed trading decisions.
 
 ## Project Overview
 
-This trading bot analyzes various data sources through the lens of Marxist dialectics to identify trading opportunities on Kalshi's prediction markets. It combines traditional quantitative trading strategies with a unique Marxist analytical framework to predict market movements and geopolitical trends.
+This trading bot analyzes various data sources through multiple analytical frameworks to identify trading opportunities on Kalshi's prediction markets. It combines traditional quantitative trading strategies with advanced data analysis to predict market movements and geopolitical trends.
 
 ## Core Components
 
@@ -16,17 +16,17 @@ This trading bot analyzes various data sources through the lens of Marxist diale
 - **Historical Data**
   - Economic indicators
   - Historical market data
-- **Marxist Literature**
-  - Marx's economic works
-  - Historical materialist analyses
-  - Contemporary Marxist economic papers
+- **Academic Literature**
+  - Economic theory papers
+  - Historical analyses
+  - Contemporary economic research
 
 ### 2. Analysis Engine
 - **LLM Integration**
-  - Processes and synthesizes data through Marxist dialectics
+  - Processes and synthesizes data through multiple analytical frameworks
   - Categorizes information into relevant topics
-  - Applies framework from "The German Ideology"
-  - Generates predictions based on historical materialist analysis
+  - Applies systematic analysis methodologies
+  - Generates predictions based on comprehensive analysis
 
 ### 3. Trading Bot
 - **Kalshi Integration**
@@ -34,7 +34,7 @@ This trading bot analyzes various data sources through the lens of Marxist diale
   - Automated trade execution
   - Position management
 - **Strategy Implementation**
-  - Marxist dialectical analysis
+  - Multi-factor analysis
   - Traditional quantitative strategies
   - Risk management protocols
 - **Contract Analysis**
@@ -116,7 +116,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Inspired by works of Karl Marx and Friedrich Engels
 - Trading strategies from:
   - "Cybernetic Trading Strategies"
   - "Systematic Trading"

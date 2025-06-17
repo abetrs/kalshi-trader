@@ -42,3 +42,11 @@ logs
 
 # Optional REPL history
 .node_repl_history 
+
+# Private keys and sensitive files
+itsmine12.txt
+*.pem
+*.key
+
+#prompt instructions
+Instructions

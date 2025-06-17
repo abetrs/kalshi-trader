@@ -1,0 +1,24 @@
+{
+  "name": "kalshitrader",
+  "version": "1.0.0",
+  "description": "A sophisticated trading bot that leverages historical analysis and advanced data processing to trade event contracts on Kalshi. This project combines natural language processing, quantitative trading strategies, and comprehensive market analysis to make informed trading decisions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abetrs/kalshi-trader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abetrs/kalshi-trader/issues"
+  },
+  "homepage": "https://github.com/abetrs/kalshi-trader#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
